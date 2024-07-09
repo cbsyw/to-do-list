@@ -1,0 +1,25 @@
+
+
+- create 'todos'
+	- class/factory func
+	- ask user for input
+	- store input in object
+	- call store func
+- store 'todos'
+	- take created 'todo' obj
+	- store in array 
+- set 'todos' as complete
+	- take user input
+	- update array information w/ boolean
+- update 'todos'
+	- take user input 
+	- update todo (various info)
+- dom manipulation
+	
+- store 'todos' in different tabs
+
+- add
+	- webpack
+	- date-fns
+	- localStorage
+
