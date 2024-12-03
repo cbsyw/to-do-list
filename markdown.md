@@ -15,6 +15,21 @@
 - dom manipulation
 - store 'todos' in different tabs
 
+
+- title,description,dueDate, checklist
+- tabs/new projects 
+- webpack :( so create modules
+  - DOM modules
+  - Creating New todos
+  - Marking todos complete
+  - changing due date
+  - etc.
+  - view all projects
+  - view all todos (total w/o specifics)
+  - expand a todo? to edit in detaiL??? bleh
+  - odin has other suggestions
+  - web storage api (so it doesn't lose all data entered)
+
 ALGO
 1. user asked for input
 2. input stored in object
